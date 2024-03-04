@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paulo Matos</h1>
+<h1 align="center">Hi, I'm Paulo</h1>
 <h3 align="center">Fullstack .NET/Angular DEV currently working @ GreenD</h3>
 
 <h3 align="left">Connect with me:</h3>
